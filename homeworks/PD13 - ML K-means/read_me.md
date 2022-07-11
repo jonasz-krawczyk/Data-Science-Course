@@ -1,0 +1,1 @@
+Może zastanawiać dlaczego zarówno standaryzuję i normalizuję dane. Odpowiedź jest w folderze Archiw.

@@ -1,0 +1,9 @@
+Stwórzcie Dashboard (wykresy według uznania), który bedzie zawierał:
+
+3 wykresy, w tym jeden floating
+Filtry schowane w kontenerze
+Posiadał conajmniej jeden filtr na dashboardzie (element jednego wykresu filtruje inny)
+Posiadał conajmniej jeden Dashboard Action
+Tooltip jednego z wykresów będzie bardziej zaawansowany (wyświetlał dodatkowe informacje/wykresy).
+
+Rozwiązanie można przesyłać na github w postaci dashboardu (może to być plik pdf,jpg itp.)
